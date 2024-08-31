@@ -7,3 +7,4 @@ function farewell(name) {
 
 console.log(greet("Alice"));
 console.log(farewell("Bob"));
+}
